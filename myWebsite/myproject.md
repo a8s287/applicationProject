@@ -2,7 +2,7 @@
 
 ## Introduction of this project
 
-This is a website which indtroduced myself to people. There are there pages in this project.
+This is a website which indtroduced myself to people. There are three pages in this project.
 
 Row | Context
 -----|--------
