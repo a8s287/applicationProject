@@ -4,8 +4,8 @@ Link:[welcome to my web](https://a8s287.github.io/wd107b/exercise/FINALEXAM/NEW.
 Link:[Raw Code](FINALEXAM/NEW.htm)
 
 ## 1.Three buttons in menu bar 
-While the mouse is hovering on the menu bar's word, the word's color would change<br>
-There are two website, NEWS and My Story, can help users repectively get into diffirent pages.<br>
+While the mouse is hovering on the menu bar's word, the word's color would change.<br>
+There are two website, NEWS and My Story, both can help users get into diffirent pages repectively.<br>
 "Contact me" is a drop-down menu bar. There are three diffirent link, each one can contact me while pressing down the link. <br>
 
 ## 2.Title Picture
