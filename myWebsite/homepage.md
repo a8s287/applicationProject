@@ -1,6 +1,7 @@
 # Home Page
 
-Link:[welcome to my web](FINALEXAM/NEW.htm)
+Link:[welcome to my web](https://a8s287.github.io/wd107b/exercise/FINALEXAM/NEW.htm)</br>
+Link:[Raw Code](FINALEXAM/NEW.htm)
 
 ## 1.Three buttons in menu bar 
 While the mouse is hovering on the menu bar's word, the word's color would change<br>
