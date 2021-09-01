@@ -45,10 +45,11 @@ This page will reveal other people posts, the user's own post, their profile pho
 If the user sign in over 30 minutes, the page will return to sign-in page.
 
 ![image](https://user-images.githubusercontent.com/47874829/131627625-8d984a01-3395-4c07-80a9-ade818ffef3a.png)
-
+</br>
 ![image](https://user-images.githubusercontent.com/47874829/131627637-688618bd-92f4-4084-9e60-f27838c7e130.png)
 </br>
-Users can also add some comment in posts.
+Users can also add some comment in posts.</br>
+
 ![image](https://user-images.githubusercontent.com/47874829/131627801-c5e0b09a-bf1c-403a-bea6-693b75590253.png)
 
 
