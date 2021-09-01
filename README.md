@@ -6,7 +6,7 @@
 | Project's Name |   Link    |
 |:-----|-----:|
 | Eva's Website  | [evaWebsite.md](myWebsite/evaWebsite.md)|
-| Socail Media's Website  | [Project](myproject.md) | 
+| Social Media's Website  | [socialMediaWeb.md](socialMediaWeb.md) | 
 | Shooting Game |       [Project](myproject.md)     |
 | Accounting Android App | [Project](myproject.md)  |
 | Shopping Website|      [Project](myproject.md)    |
