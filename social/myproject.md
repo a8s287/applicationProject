@@ -12,7 +12,7 @@ Row | Context
 -----|--------
  Project Name |  Social Media Website
  Group Size |  1
- Using Programing Language | HTML.CSS.JavaScript.php
+ Using Programing Language | HTML.CSS.JavaScript.PHP
 
 ## Instructions
 
