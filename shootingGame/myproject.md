@@ -2,7 +2,7 @@
 
 ## Introduction of this project
 
-This is a shooting game. This shooting game includes one player, one boss, and some ghosts. The conception of this game refered by [Cuphead](https://store.steampowered.com/app/268910/Cuphead/).</br>
+This is a shooting game. This shooting game includes one player, one boss, and some ghosts. The conception of this game refer  [Cuphead](https://store.steampowered.com/app/268910/Cuphead/).</br>
 Such, the main character is Cuphead. The fianl goal for Cuphead is to defeat the boss. However, the boss' health point won't reveal on the monitor.</br>
 Besides defeating the boss, Cuphead only has three lives. Be careful from being death. Cuphead's HP will decrease when Cuphead runs into the boss or ghosts. When Cuphead drops out of the window, the life quantities will also deacrease.</br>
 Using PNG file and threading to complete the moves.</br>
