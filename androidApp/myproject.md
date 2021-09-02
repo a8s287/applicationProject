@@ -2,9 +2,9 @@
 
 ## Introduction of this project
 
-</br>
+This is an accounting app for android users. </br>
 
-LINK: [Raw Code]()
+LINK: [Raw Code](Final.rar)
 
 Row | Context
 -----|--------
