@@ -1,4 +1,4 @@
-# Social Media Website
+# Shopping Website
 
 ## Introduction of this project
 
