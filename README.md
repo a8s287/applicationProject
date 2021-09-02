@@ -7,6 +7,6 @@
 |:-----|-----:|
 | Eva's Website  | [evaWebsite.md](myWebsite/evaWebsite.md)|
 | Social Media's Website  | [socialMediaWeb.md](social/socialMediaWeb.md) | 
-| Shooting Game |       [Project](myproject.md)     |
+| Shooting Game |       [shooting.md](shootingGame/shooting.md)     |
 | Accounting Android App | [Project](myproject.md)  |
 | Shopping Website|      [Project](myproject.md)    |
