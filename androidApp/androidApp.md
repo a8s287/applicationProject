@@ -1,4 +1,4 @@
-## Windows Programming Design Course(視窗程式設計) 
+## Software Design of Embedded System Course(嵌入式系統軟體設計) 
 
 Row |  Context
 -----|--------
