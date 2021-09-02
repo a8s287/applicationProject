@@ -3,7 +3,7 @@
 ## Introduction of this project
 
 This is a website which can buying and selling goods online.</br>
-All of the front-end programs are reference by [ThemeHunt](https://themehunt.com/item/1527068-tmart-minimal-ecommerce-html5-template).
+All of the front-end programs are refering by [ThemeHunt](https://themehunt.com/item/1527068-tmart-minimal-ecommerce-html5-template).
 
 LINK: [Raw Code](tmart.rar)
 
