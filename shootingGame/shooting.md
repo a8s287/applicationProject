@@ -1,9 +1,9 @@
-## Website Design Course(網頁設計) --- Note、Project
+## Windows Programming Design Course(視窗程式設計) 
 
 Row |  Context
 -----|--------
 Student's Name |  Pan Yu Ya
 Student's ID  | 11070512
-Unversity | National Quemoy University
+Unversity | National Taipei University of Education
 Department | Computer Science
 My Project | [Introduction](myproject.md)  
