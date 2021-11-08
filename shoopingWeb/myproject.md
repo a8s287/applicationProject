@@ -2,7 +2,7 @@
 
 ## Introduction of this project
 
-This is a website which can buying and selling goods online.</br>
+This is a website which affords costumers to buy and to sell goods online.</br>
 All of the front-end programs are refering by [ThemeHunt](https://themehunt.com/item/1527068-tmart-minimal-ecommerce-html5-template).
 
 LINK: [Raw Code](tmart.rar)
@@ -44,7 +44,7 @@ If the description includes *, the textbox must be filled. </br>
 ![image](https://user-images.githubusercontent.com/47874829/131880527-47e24a82-7268-46fa-91da-c3daa8271b90.png)
 
 </br>
-Press the button to enter the page which can update products' data. 
+Press the button to enter the page to update products' data. 
 </br>
 
 ![image](https://user-images.githubusercontent.com/47874829/131880548-7391bcba-f917-4e04-9938-456e57e3ba29.png)
@@ -68,7 +68,7 @@ Press the button to enter the page which can update products' data.
 
 </br>
 ### Shopping Cart
-You can see the products you want to buy in the shopping cart.</br>
+The products you want to buy will be in the shopping cart.</br>
 ![image](https://user-images.githubusercontent.com/47874829/131881256-a2050821-2741-4d9d-bdda-2cbef834b923.png)
 
 
